@@ -1,0 +1,43 @@
+body{
+
+    
+    background:rgb(132, 239, 210);
+    /*background-image:url(clark-tibbs-oqStl2L5oxI-unsplash.jpg);
+    background-size: contain;
+    color: white;*/
+    
+
+}
+
+
+h1{
+    background:rgba(240, 192, 49, 0.44);
+    font-style: inherit;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0);
+    padding: 15px 15px 15px 15px;
+    margin: 5px 5px ;
+    border-style: inset;
+    border-radius: 10px;
+    border-color: darkblue;
+    text-align: center;
+    width: auto;
+    height: auto;
+
+}
+
+
+ul{
+    border-style:groove;
+    width: max-content;
+    
+
+}
+
+#links li a:hover{
+
+             background-color:blue;
+             color: white;
+        
+
+}
